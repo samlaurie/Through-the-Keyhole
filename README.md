@@ -20,4 +20,4 @@ This project is for HUMN6003 Digital Humanities and Public Culture: Projects and
 
 
 
-View the project on SketchFab: https://skfb.ly/o6R6I
+View the project on SketchFab: https://skfb.ly/o6R6I 
