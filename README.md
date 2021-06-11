@@ -1,3 +1,4 @@
+
 # Through-the-Keyhole
 
 <img width="734" alt="Screen Shot 2021-06-11 at 2 00 58 pm" src="https://user-images.githubusercontent.com/85697461/121629056-c94f9e00-cabd-11eb-9cc5-5c42a13ff885.png">
@@ -18,6 +19,6 @@ This project is for HUMN6003 Digital Humanities and Public Culture: Projects and
 
 <img width="609" alt="Screen Shot 2021-06-11 at 2 16 33 pm" src="https://user-images.githubusercontent.com/85697461/121630164-ff8e1d00-cabf-11eb-8619-e1ff92bbc225.png">
 
-
+[Through The Keyhole.pdf](https://github.com/samlaurie/Through-the-Keyhole/files/6637687/Through.The.Keyhole.pdf)
 
 View the project on SketchFab: https://skfb.ly/o6R6I 
